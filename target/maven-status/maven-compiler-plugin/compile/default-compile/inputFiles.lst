@@ -1,0 +1,8 @@
+/home/moglix/Producer Consumer/Producer-Consumer/src/main/java/demo/ProducerConsumerApplication.java
+/home/moglix/Producer Consumer/Producer-Consumer/src/main/java/demo/message/consumer/Consumer.java
+/home/moglix/Producer Consumer/Producer-Consumer/src/main/java/demo/message/controller/ProducerConsumerController.java
+/home/moglix/Producer Consumer/Producer-Consumer/src/main/java/demo/message/dto/Message.java
+/home/moglix/Producer Consumer/Producer-Consumer/src/main/java/demo/message/producer/Producer.java
+/home/moglix/Producer Consumer/Producer-Consumer/src/main/java/demo/message/service/ProducerConsumerService.java
+/home/moglix/Producer Consumer/Producer-Consumer/src/main/java/demo/message/service/impl/ProducerConsumerServiceImpl.java
+/home/moglix/Producer Consumer/Producer-Consumer/src/main/java/demo/message/testCase/ProducerConsumerTest.java

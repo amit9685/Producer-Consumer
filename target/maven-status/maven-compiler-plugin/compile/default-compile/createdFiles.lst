@@ -1,0 +1,8 @@
+demo/ProducerConsumerApplication.class
+demo/message/testCase/ProducerConsumerTest.class
+demo/message/controller/ProducerConsumerController.class
+demo/message/service/impl/ProducerConsumerServiceImpl.class
+demo/message/dto/Message.class
+demo/message/consumer/Consumer.class
+demo/message/service/ProducerConsumerService.class
+demo/message/producer/Producer.class
